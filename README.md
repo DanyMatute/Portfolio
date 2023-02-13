@@ -20,4 +20,4 @@ Dany
 
 ---
 
-**I am currently populating this repository with my porjects, more to come (Feb 13 2022).** 
+**I am currently populating this repository with my porjects, more to come (written Feb 13 2022).** 

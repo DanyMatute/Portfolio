@@ -4,6 +4,5 @@ Embryonic stem cells can differentiate into distinct cell type. The aim is to un
 <p align="center">
   <img src="Images/Transcriptional factor interactions.png" height="400"/ >
   <img src="Images/Steady state model of Nanog and Gata 6.png" height="400"/ >
-
-
+  <img src="Images/Transcriptional factors concentration over time_.png" height="400"/ >
   </p>

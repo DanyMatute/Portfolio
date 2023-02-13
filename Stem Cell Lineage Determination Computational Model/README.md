@@ -1,3 +1,4 @@
+# Summary
 Embryonic stem cells can differentiate into distinct cell type. The aim is to understand how to reprogram these differentiated cells back to the embryonic stem cell, to do so one must understand the mechanism behind it. 
 
 There is a subset of transcription factors (TF) that are responsible for...
@@ -10,6 +11,11 @@ The model could simulate new scenarios, such as reprograming, and aid us with un
 
 The primary TF, Oct4, is responsible for many of the interactions occurring in the system. Its concentration seems to be the determining factor of the fate of the cell as seen in its switch like inducing behaviour while interacting with Nanog and gata-6. 
 This would suggest that Oct4 will play an important role in future experiments regarding the return to stem-cell like status. 
+
+The trophectoderm state was achieved when Oct4, Nanog and Sox2 were inactivated and Cdx2, Gata-6 and Gcnf were activated. 
+However, the over expression of Oct4 lead the system to pursue the endoderm state. 
+
+If the system was kept at elevated levels of Oct4, Nanog and Sox2, it would remain in the stem cell state. 
 
 
 <p align="center">

@@ -8,6 +8,8 @@ The majority of these projects were carried out as a part of one of the followin
 
 * *Bachelors of Science in Biology with a concentration in Biotechnology and Molecular Biology at George Mason University.*
 
+* *Complete Machine Learning & Data Science Bootcamp 2023.*
+
 ## Content
 1. [MetCloOT2 Report](https://github.com/DanyMatute/Portfolio/tree/main/MetCloOT2%20Report) - The script containing the CAD and machine translated protocol can be found [here](https://github.com/Edinburgh-Genome-Foundry/OT2Metclo).
 2. [Metagenomic Analysis of Organically Overloaded Anaerobic Digestor](https://github.com/DanyMatute/Portfolio/tree/main/Metagenomic%20Analysis%20of%20Organically%20Overloaded%20Anaerobic%20Digestor)

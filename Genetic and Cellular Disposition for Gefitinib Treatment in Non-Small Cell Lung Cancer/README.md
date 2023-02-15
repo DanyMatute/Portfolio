@@ -11,7 +11,10 @@ Furthermore, a mutational analysis would determine if the subject has an affinit
 
 It’s reported that the subject has markers indicating an inclination of undergoing EMT. It was also found that the subject does not carry the mutation. The introduction of Gefitinib would just accelerate the disease.
 
-
+<p align="center">
+  <img src="ICC.png" height="250"/ >
+  <img src="WesternBlot.png" height="300"/ >
+  </p>
 
 ## Methodology 
 - Cells, Trypsinization, Counting, Seeding, and exposing cells to TGFβ

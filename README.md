@@ -24,4 +24,4 @@ Dany
 
 ---
 
-**I am currently populating this repository with completed and newer porjects, more to come (Updated Feb 15 2023).** 
+**I am currently populating this repository with completed and newer projects, more to come (Updated Feb 15 2023).** 

@@ -22,6 +22,10 @@ The majority of these projects were carried out as a part of one of the followin
 2. Cell-Free Proteomic and In-organic Fingerprinting of Naturally Occuring Neurotoxins, Hemotoxins, Cytotoxins, Bungarotoxins in Developing Nations of the South East. 
 3. Antimicrobial Resistant Metataxonomic and Metagenomic Analysis of the Veolia, Seafield Waste Water Treatment Plant.
 4. Riview of DNA assembly technology and Lab Automation Platforms
+5. Research Project Proposal: Hydrocarbon Bioremediation by Microorganisms in Biochar-Amended Soil - AIM: Evaluate the hydrocarbon degrading ability and metataxonomic shift in soil communities of bioaugmented biochar
+6. Photon-directed multiplexed enzymatic DNA synthesis for molecular digital data storage presentation
+
+
 
 
 

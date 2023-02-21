@@ -17,6 +17,15 @@ The majority of these projects were carried out as a part of one of the followin
 4. [Stem Cell Lineage Determination Computational Model](https://github.com/DanyMatute/Portfolio/tree/main/Stem%20Cell%20Lineage%20Determination%20Computational%20Model)
 5. [Genetic and Cellular Disposition for Gefitinib Treatment in Non-Small Cell Lung Cancer](https://github.com/DanyMatute/Portfolio/tree/main/Genetic%20and%20Cellular%20Disposition%20for%20Gefitinib%20Treatment%20in%20Non-Small%20Cell%20Lung%20Cancer)
 
+## Pending Additons
+1. Future Outlook of Biotechnology Developments: The Petroleum Industry.
+2. Cell-Free Proteomic and In-organic Fingerprinting of Naturally Occuring Neurotoxins, Hemotoxins, Cytotoxins, Bungarotoxins in Developing Nations of the South East. 
+3. Antimicrobial Resistant Metataxonomic and Metagenomic Analysis of the Veolia, Seafield Waste Water Treatment Plant.
+4. Riview of DNA assembly technology and Lab Automation Platforms
+
+
+
+
 If you would like to contact me message via my [LinkedIn](https://www.linkedin.com/in/dmatute/) 
 
 Cheers,
@@ -24,4 +33,4 @@ Dany
 
 ---
 
-**I am currently populating this repository with completed and newer projects, more to come (Updated Feb 15 2023).** 
+**I am currently populating this repository with completed and newer projects, more to come (Updated Feb 21 2023).** 

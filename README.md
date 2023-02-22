@@ -31,6 +31,7 @@ The majority of these projects were carried out as a part of one of the followin
 
 
 If you would like to contact me message via my [LinkedIn](https://www.linkedin.com/in/dmatute/) 
+Check out my [Resume](https://github.com/DanyMatute/Resume)
 
 Cheers,
 Dany

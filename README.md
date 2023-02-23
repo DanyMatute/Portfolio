@@ -1,8 +1,8 @@
 # Portfolio
 
-Welcome to my portfolio, where I'm proud to share project to some case studies, scientific research and reports I've produced on during my learning path in Data Analytics, Data science, Bioinformatics, Synthetic Biology, Molecular Biology and more. 
+Welcome to my portfolio, where I'm proud to share projects of some case studies, scientific research and reports I've produced during my learning path in Data Analytics, Data science, Bioinformatics, Synthetic Biology, Molecular Biology and more. 
 
-The majority of these projects were carried out as a part of one of the following educational programs: 
+Most of these projects were carried out as a part of one of the following educational programs: 
 
 * *Master of Science in Synthetic Biology and Biotechnology at the University of Edinburgh.* 
 
@@ -17,7 +17,7 @@ The majority of these projects were carried out as a part of one of the followin
 4. [Stem Cell Lineage Determination Computational Model](https://github.com/DanyMatute/Portfolio/tree/main/Stem%20Cell%20Lineage%20Determination%20Computational%20Model)
 5. [Genetic and Cellular Disposition for Gefitinib Treatment in Non-Small Cell Lung Cancer](https://github.com/DanyMatute/Portfolio/tree/main/Genetic%20and%20Cellular%20Disposition%20for%20Gefitinib%20Treatment%20in%20Non-Small%20Cell%20Lung%20Cancer)
 
-## Pending Additons
+## Pending Additions
 1. Future Outlook of Biotechnology Developments: The Petroleum Industry.
 2. Cell-Free Proteomic and In-organic Fingerprinting of Naturally Occurring Neurotoxins, Hemotoxins, Cytotoxins, Bungarotoxins in Developing Nations of the South East. 
 3. Antimicrobial Resistant Metataxonomic and Metagenomic Analysis of the Veolia, Seafield Wastewater Treatment Plant.
@@ -39,4 +39,4 @@ Dany
 
 ---
 
-**I am currently populating this repository with completed and newer projects, more to come (Updated Feb 21 2023).** 
+**I am currently populating this repository with completed and newer projects, more to come (Updated Feb 21 2023).**
